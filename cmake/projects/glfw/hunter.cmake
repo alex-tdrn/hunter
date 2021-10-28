@@ -96,9 +96,9 @@ hunter_add_version(
     VERSION
     "3.3.4-p0"
     URL
-    "https://github.com/cpp-pm/glfw/archive/refs/tags/v3.3.4-p0.tar.gz"
+    "https://github.com/cpp-pm/glfw/archive/refs/heads/hunter-3.3.4-clean.tar.gz"
     SHA1
-    68860fe3983bef0c73c21d23cc69c8aac9cf493c
+    d89d73f3f451edc90aeaf988e88397a746e881ba
 )
 
 hunter_cmake_args(
